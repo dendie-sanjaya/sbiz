@@ -1,0 +1,4 @@
+[06-Feb-2020 18:19:32 Asia/Jakarta] PHP Warning:  mysql_connect() [<a href='function.mysql-connect'>function.mysql-connect</a>]: Too many connections in /home/inventorytmtweb/public_html/live/lib/connection.php on line 4
+[06-Feb-2020 18:19:32 Asia/Jakarta] PHP Warning:  mysql_select_db() expects parameter 2 to be resource, boolean given in /home/inventorytmtweb/public_html/live/lib/connection.php on line 5
+[06-Feb-2020 18:19:32 Asia/Jakarta] PHP Warning:  mysql_query() [<a href='function.mysql-query'>function.mysql-query</a>]: Access denied for user 'inventorytmtweb'@'localhost' (using password: NO) in /home/inventorytmtweb/public_html/live/stuffStockCard/indexRead.php on line 66
+[06-Feb-2020 18:19:32 Asia/Jakarta] PHP Warning:  mysql_query() [<a href='function.mysql-query'>function.mysql-query</a>]: A link to the server could not be established in /home/inventorytmtweb/public_html/live/stuffStockCard/indexRead.php on line 66

@@ -1,0 +1,49 @@
+x`<?php 
+	include '../login/auth.php';
+	include 'editValidate.php';
+	include '../lib/connection.php';
+	include '../lib/general.class.php';
+
+	$categoryId = $_POST['categoriId'];
+	$id = general::secureInput($_POST['id']);
+	$salesId = general::secureInput($_POST['salesId']);
+	$name = general::secureInput($_POST['name']);
+	$countryCode = general::secureInput($_POST['countryCode']);
+	$phone = general::secureInput($_POST['phone']);
+	$city = general::secureInput($_POST['city']);
+	$tmp = explode('/',$_REQUEST['dateInput']);
+	$dateInput  = $tmp[2].'-'.$tmp[1].'-'.$tmp[0];	
+
+	$query = "update customer
+		set sales_id = '$salesId',
+		  name = '$name',
+		  country_code = '$countryCode',
+		  phone_number= '$phone',
+		  city = '$city',	
+		  date_input = '$dateInput',
+		  is_delete = '0'
+		where id = '$id'";		
+
+	mysql_query($query) or die (mysql_error());
+
+	$query = "delete from customer_group
+			  where customer_id = '$id'";		
+
+	$tmp = mysql_query($query) or die (mysql_error());
+	$data = mysql_fetch_array($tmp);
+	$customerId = $data['id'];
+
+
+	foreach($categoryId as $val) { 
+		$valTmp = general::secureInput($val);
+		$query = "insert customer_group
+				  set customer_id = '$id',
+				    client_id = '$valTmp'";		
+
+		mysql_query($query) or die (mysql_error());
+	}	
+
+	include '../lib/connection-close.php';
+
+	header('Location:index.php?msg=editSuccess&type=4');
+?>

@@ -1,0 +1,77 @@
+/* -------------------------------------------------------------- 
+
+   print.css
+   * Gives you some sensible styles for printing pages.
+   * See Readme file in this directory for further instructions.
+      
+   Some additions you'll want to make, customized to your markup:
+   #header, #footer, #navigation { display:none; }
+   
+-------------------------------------------------------------- */
+
+body {
+	 font-family: verdana,arial,sans-serif;
+	 background:white; 
+     font-size:13pt; 
+     margin:20px 
+}
+
+h1, h2, h3, h4, h5, h6 { 
+	 page-break-after:avoid; 
+     page-break-inside:avoid 
+}
+
+blockquote, table, pre { 
+	page-break-inside:avoid 
+}
+
+ul, ol, dl  { 
+	page-break-before:avoid 
+}
+
+table.tbl {
+	font-family: verdana,arial,sans-serif;
+	font-size:2px;
+	color:#333333;
+	border-width: 2px;
+	border-color: #666666;
+	border-collapse: collapse;
+}
+table.tbl th {
+	border-width: 2px;
+	padding: 8px;
+	border-style: solid;
+	border-color: #666666;
+	background-color: #dedede;
+}
+table.tbl td {
+	border-width: 2px;
+	padding: 8px;
+	border-style: solid;
+	border-color: #666666;
+	background-color: #ffffff;
+}
+
+table.tbl td table{
+	font-family: verdana,arial,sans-serif;
+	font-size:12px;
+	color:#333333;
+	border:none;
+	border-collapse: collapse;
+}
+
+table.tbl td table td {
+	border-width: 0px;
+	padding: 5px;
+	border-style: solid;
+	border-color: #666666;
+	background-color: #ffffff;
+}
+
+fieldset {
+	border-width: 1px;
+	padding: 5px;
+	border-style: solid;
+	border-color: #666666;
+	background-color: #ffffff;
+}

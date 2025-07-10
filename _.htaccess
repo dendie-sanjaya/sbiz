@@ -1,0 +1,5 @@
+AuthUserFile /home/inventorytmtweb/public_html/live/.htpasswd
+AuthType Basic
+AuthName "Login To Platform"
+Require valid-user
+

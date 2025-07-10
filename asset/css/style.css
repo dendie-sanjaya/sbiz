@@ -1,0 +1,244 @@
+::selection{ background-color: #E13300; color: white; }
+::moz-selection{ background-color: #E13300; color: white; }
+::webkit-selection{ background-color: #E13300; color: white; }
+
+#body {
+ margin: 15px;
+ padding: 5px;
+ font-family: Lucida Grande, Verdana, Geneva, Sans-serif;
+ font-size: 13px;
+ color: #333;
+ background-color: #fff;
+}
+
+a {
+ color: #0134c5;
+ background-color: transparent;
+ text-decoration: none;
+ font-weight: normal;
+ outline-style: none;
+}
+a:visited {
+ color: #0134c5;
+ background-color: transparent;
+ text-decoration: none;
+ outline-style: none;
+}
+a:hover {
+ color: #000;
+ text-decoration: none;
+ background-color: transparent;
+ outline-style: none;
+}
+
+
+#content {
+ border: 3px solid #D0D0D0;
+ -webkit-box-shadow: 0 0 8px #D0D0D0;
+ margin: 20px auto;
+ padding: 0;
+}
+
+#content p {
+ margin: 12px 20px 12px 0;
+ text-align:left;	
+}
+
+#content h1 {
+ color: #e13300;
+ background-color: transparent;
+ font-weight: normal;
+ font-size: 24px;
+ margin: 10px 0 5px 0;
+ padding: 15px 0 10px 0px;
+ text-align:left;	
+}
+
+#content h2 {
+ background-color: transparent;
+ border-bottom: 1px solid #999;
+ color: #000;
+ font-size: 18px;
+ font-weight: bold;
+ margin: 28px 0 16px 0;
+ padding: 5px 0 6px 0;
+}
+
+#content h3 {
+ background-color: transparent;
+ color: #333;
+ font-size: 16px;
+ font-weight: bold;
+ margin: 16px 0 15px 0;
+ padding: 0 0 0 0;
+}
+
+#content h4 {
+ background-color: transparent;
+ color: #444;
+ font-size: 14px;
+ font-weight: bold;
+ margin: 22px 0 0 0;
+ padding: 0 0 0 0;
+}
+
+#content img {
+ margin: auto;
+ padding: 0;
+ border: 2px solid gray;
+ -webkit-box-shadow: 0px 5px 10px #D0D0D0;
+}
+
+table{
+ font-size: 14px;
+}
+
+#tbl table{
+ border: 1px solid #999;
+}
+
+#tbl th {
+ font-weight: bold;
+ text-align: center;
+ font-size: 14px;
+ background-color: #666;
+ color: #fff;
+ padding: 4px;
+}
+
+#tbl td {
+ border: 1px solid #999;
+ font-weight: normal;
+ font-size: 14px;
+ padding: 4px;
+ background-color: #f0f0f0;
+}
+
+#tbl #clear table{
+ border: 0px;
+}
+
+
+#tbl #clear td {
+ border: 0px solid #999;
+ font-weight: normal;
+ font-size: 10px;
+ padding: 0px;
+ background-color: #f0f0f0;
+}
+
+
+#footer {
+background-color: transparent;
+font-size: 10px;
+padding: 16px 0 15px 0;
+margin: 20px 0 0 0;
+text-align: center;
+}
+
+#footer p {
+ text-align: right;
+ font-size: 13px;
+ border-top: 1px solid #D0D0D0;
+ line-height: 32px;
+ padding: 0 10px 0 10px;
+ margin: 20px 0 0 0;
+}
+
+#footer address {
+ font-style: normal;
+}
+
+.center {
+ text-align: center;
+}
+
+fieldset {
+ border: 1px solid #999;
+ background-color: #ffffff;
+ border: 1px solid gray;
+ -webkit-box-shadow: 0px 0px 10px #D0D0D0;
+ padding: 15px 10px 15px 10px;
+}
+
+fieldset  legend{
+ border: 1px solid #999;
+ font-size: 14px;
+ padding: 8px 10px 8px 10px;
+ background-color: #666;
+ color: #fff;
+}	
+
+hr {
+ border: 1px solid #f1f1f1;
+}	
+
+form {
+ margin: 0;
+ padding: 0;
+ text-align: left;
+}
+
+input[type="text"], input[type="password"], textarea {
+ font-size: 14px;
+ color: #333;
+ border: 1px solid #B3B4BD;
+ font-size: 14px;
+ height: 24px;
+ margin: 0px 0px 5px 0px;
+ padding: 2px 8px 2px 8px; 
+ height: 30px; 
+}
+
+
+select {
+ font-size: 14px;
+ height: 30px;
+ padding: 0px 4px 0px 4px; 
+}
+
+
+input[type="button"], input[type="submit"]{
+
+ font-size: 14px;
+ height: 35px;
+ padding: 2px 8px 2px 8px; 
+ margin: 2px;	
+
+}
+
+
+/*alert*/
+
+.info,.warning,.error{
+	padding:10px;
+	margin-bottom:10px;
+	min-height:50px;
+	padding-left:60px;
+}
+
+.info h3,.warning h3,.error h3,blockquote h3{
+	font-size:14px;
+	font-weight:bold;
+	margin:0px;
+	margin-bottom:5px;
+	text-align: left;
+}
+
+.info{
+	background:#e7ffc4 url(../image/icon/info.png) no-repeat top left;
+	border:#6C3 solid 1px;
+	color:#104f2e;
+}
+
+.warning{
+	background:#f6f2bf url(../image/icon/warning.png) no-repeat top left;
+	border:#F90 solid 1px;
+	color:#c34408;
+}
+
+.error{
+	background:#f8d6d6 url(../image/icon/error.png) no-repeat top left;
+	border:#F30 solid 1px;
+	color:#930808;
+}

@@ -1,0 +1,145 @@
+[13-Apr-2021 04:01:18 UTC] PHP Warning:  mysql_connect(): Too many connections in /home/shopilli/sbiz.mahira.co.id/lib/connection.php on line 4
+[13-Apr-2021 04:01:18 UTC] PHP Warning:  mysql_select_db() expects parameter 2 to be resource, boolean given in /home/shopilli/sbiz.mahira.co.id/lib/connection.php on line 5
+[13-Apr-2021 04:01:18 UTC] PHP Warning:  mysql_query(): Too many connections in /home/shopilli/sbiz.mahira.co.id/salesOrder/editRead.php on line 22
+[13-Apr-2021 04:01:18 UTC] PHP Warning:  mysql_query(): A link to the server could not be established in /home/shopilli/sbiz.mahira.co.id/salesOrder/editRead.php on line 22
+[13-Apr-2021 04:01:27 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/shopilli/sbiz.mahira.co.id/salesOrder/edit.php:1) in /home/shopilli/sbiz.mahira.co.id/login/auth.php on line 6
+[13-Apr-2021 04:01:27 UTC] PHP Warning:  mysql_connect(): Too many connections in /home/shopilli/sbiz.mahira.co.id/lib/connection.php on line 4
+[13-Apr-2021 04:01:27 UTC] PHP Warning:  mysql_select_db() expects parameter 2 to be resource, boolean given in /home/shopilli/sbiz.mahira.co.id/lib/connection.php on line 5
+[13-Apr-2021 04:01:27 UTC] PHP Warning:  mysql_query(): Access denied for user ''@'localhost' (using password: NO) in /home/shopilli/sbiz.mahira.co.id/salesOrder/editRead.php on line 22
+[13-Apr-2021 04:01:27 UTC] PHP Warning:  mysql_query(): A link to the server could not be established in /home/shopilli/sbiz.mahira.co.id/salesOrder/editRead.php on line 22
+[13-Apr-2021 04:01:29 UTC] PHP Warning:  mysql_connect(): Too many connections in /home/shopilli/sbiz.mahira.co.id/lib/connection.php on line 4
+[13-Apr-2021 04:01:29 UTC] PHP Warning:  mysql_select_db() expects parameter 2 to be resource, boolean given in /home/shopilli/sbiz.mahira.co.id/lib/connection.php on line 5
+[13-Apr-2021 04:01:29 UTC] PHP Warning:  mysql_query(): Too many connections in /home/shopilli/sbiz.mahira.co.id/salesOrder/addRead.php on line 17
+[13-Apr-2021 04:01:29 UTC] PHP Warning:  mysql_query(): A link to the server could not be established in /home/shopilli/sbiz.mahira.co.id/salesOrder/addRead.php on line 17
+[13-Apr-2021 04:01:34 UTC] PHP Warning:  mysql_connect(): Too many connections in /home/shopilli/sbiz.mahira.co.id/lib/connection.php on line 4
+[13-Apr-2021 04:01:34 UTC] PHP Warning:  mysql_select_db() expects parameter 2 to be resource, boolean given in /home/shopilli/sbiz.mahira.co.id/lib/connection.php on line 5
+[13-Apr-2021 04:01:34 UTC] PHP Warning:  mysql_query(): Access denied for user ''@'localhost' (using password: NO) in /home/shopilli/sbiz.mahira.co.id/salesOrder/indexRead.php on line 40
+[13-Apr-2021 04:01:34 UTC] PHP Warning:  mysql_query(): A link to the server could not be established in /home/shopilli/sbiz.mahira.co.id/salesOrder/indexRead.php on line 40
+[13-Apr-2021 04:01:40 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/shopilli/sbiz.mahira.co.id/salesOrder/edit.php:1) in /home/shopilli/sbiz.mahira.co.id/login/auth.php on line 6
+[13-Apr-2021 04:01:52 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/shopilli/sbiz.mahira.co.id/salesOrder/edit.php:1) in /home/shopilli/sbiz.mahira.co.id/login/auth.php on line 6
+[13-Apr-2021 04:01:52 UTC] PHP Warning:  mysql_connect(): Too many connections in /home/shopilli/sbiz.mahira.co.id/lib/connection.php on line 4
+[13-Apr-2021 04:01:52 UTC] PHP Warning:  mysql_select_db() expects parameter 2 to be resource, boolean given in /home/shopilli/sbiz.mahira.co.id/lib/connection.php on line 5
+[13-Apr-2021 04:01:52 UTC] PHP Warning:  mysql_query(): Access denied for user ''@'localhost' (using password: NO) in /home/shopilli/sbiz.mahira.co.id/salesOrder/editRead.php on line 22
+[13-Apr-2021 04:01:52 UTC] PHP Warning:  mysql_query(): A link to the server could not be established in /home/shopilli/sbiz.mahira.co.id/salesOrder/editRead.php on line 22
+[13-Apr-2021 04:02:00 UTC] PHP Warning:  mysql_connect(): Too many connections in /home/shopilli/sbiz.mahira.co.id/lib/connection.php on line 4
+[13-Apr-2021 04:02:00 UTC] PHP Warning:  mysql_select_db() expects parameter 2 to be resource, boolean given in /home/shopilli/sbiz.mahira.co.id/lib/connection.php on line 5
+[13-Apr-2021 04:02:00 UTC] PHP Warning:  mysql_query(): Too many connections in /home/shopilli/sbiz.mahira.co.id/salesOrder/addRead.php on line 17
+[13-Apr-2021 04:02:00 UTC] PHP Warning:  mysql_query(): A link to the server could not be established in /home/shopilli/sbiz.mahira.co.id/salesOrder/addRead.php on line 17
+[13-Apr-2021 04:02:02 UTC] PHP Warning:  mysql_connect(): Too many connections in /home/shopilli/sbiz.mahira.co.id/lib/connection.php on line 4
+[13-Apr-2021 04:02:02 UTC] PHP Warning:  mysql_select_db() expects parameter 2 to be resource, boolean given in /home/shopilli/sbiz.mahira.co.id/lib/connection.php on line 5
+[13-Apr-2021 04:02:02 UTC] PHP Warning:  mysql_query(): Access denied for user ''@'localhost' (using password: NO) in /home/shopilli/sbiz.mahira.co.id/salesOrder/addRead.php on line 17
+[13-Apr-2021 04:02:02 UTC] PHP Warning:  mysql_query(): A link to the server could not be established in /home/shopilli/sbiz.mahira.co.id/salesOrder/addRead.php on line 17
+[13-Apr-2021 04:02:04 UTC] PHP Warning:  mysql_connect(): Too many connections in /home/shopilli/sbiz.mahira.co.id/lib/connection.php on line 4
+[13-Apr-2021 04:02:04 UTC] PHP Warning:  mysql_select_db() expects parameter 2 to be resource, boolean given in /home/shopilli/sbiz.mahira.co.id/lib/connection.php on line 5
+[13-Apr-2021 04:02:04 UTC] PHP Warning:  mysql_query(): Access denied for user ''@'localhost' (using password: NO) in /home/shopilli/sbiz.mahira.co.id/salesOrder/addRead.php on line 17
+[13-Apr-2021 04:02:04 UTC] PHP Warning:  mysql_query(): A link to the server could not be established in /home/shopilli/sbiz.mahira.co.id/salesOrder/addRead.php on line 17
+[13-Apr-2021 04:02:07 UTC] PHP Warning:  mysql_connect(): Too many connections in /home/shopilli/sbiz.mahira.co.id/lib/connection.php on line 4
+[13-Apr-2021 04:02:07 UTC] PHP Warning:  mysql_select_db() expects parameter 2 to be resource, boolean given in /home/shopilli/sbiz.mahira.co.id/lib/connection.php on line 5
+[13-Apr-2021 04:02:07 UTC] PHP Warning:  mysql_query(): Access denied for user ''@'localhost' (using password: NO) in /home/shopilli/sbiz.mahira.co.id/salesOrder/addRead.php on line 17
+[13-Apr-2021 04:02:07 UTC] PHP Warning:  mysql_query(): A link to the server could not be established in /home/shopilli/sbiz.mahira.co.id/salesOrder/addRead.php on line 17
+[13-Apr-2021 04:02:38 UTC] PHP Warning:  mysql_connect(): Too many connections in /home/shopilli/sbiz.mahira.co.id/lib/connection.php on line 4
+[13-Apr-2021 04:02:38 UTC] PHP Warning:  mysql_select_db() expects parameter 2 to be resource, boolean given in /home/shopilli/sbiz.mahira.co.id/lib/connection.php on line 5
+[13-Apr-2021 04:02:38 UTC] PHP Warning:  mysql_query(): Access denied for user ''@'localhost' (using password: NO) in /home/shopilli/sbiz.mahira.co.id/salesOrder/addRead.php on line 17
+[13-Apr-2021 04:02:38 UTC] PHP Warning:  mysql_query(): A link to the server could not be established in /home/shopilli/sbiz.mahira.co.id/salesOrder/addRead.php on line 17
+[13-Apr-2021 04:06:15 UTC] PHP Warning:  mysql_connect(): Too many connections in /home/shopilli/sbiz.mahira.co.id/lib/connection.php on line 4
+[13-Apr-2021 04:06:15 UTC] PHP Warning:  mysql_select_db() expects parameter 2 to be resource, boolean given in /home/shopilli/sbiz.mahira.co.id/lib/connection.php on line 5
+[13-Apr-2021 04:06:15 UTC] PHP Warning:  mysql_query(): Access denied for user ''@'localhost' (using password: NO) in /home/shopilli/sbiz.mahira.co.id/salesOrder/addRead.php on line 17
+[13-Apr-2021 04:06:15 UTC] PHP Warning:  mysql_query(): A link to the server could not be established in /home/shopilli/sbiz.mahira.co.id/salesOrder/addRead.php on line 17
+[13-Apr-2021 04:16:38 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/shopilli/sbiz.mahira.co.id/salesOrder/edit.php:1) in /home/shopilli/sbiz.mahira.co.id/login/auth.php on line 6
+[13-Apr-2021 06:55:04 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/shopilli/sbiz.mahira.co.id/salesOrder/edit.php:1) in /home/shopilli/sbiz.mahira.co.id/login/auth.php on line 6
+[16-Apr-2021 02:24:26 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/shopilli/sbiz.mahira.co.id/salesOrder/edit.php:1) in /home/shopilli/sbiz.mahira.co.id/login/auth.php on line 6
+[17-Apr-2021 10:06:48 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/shopilli/sbiz.mahira.co.id/salesOrder/edit.php:1) in /home/shopilli/sbiz.mahira.co.id/login/auth.php on line 6
+[17-Apr-2021 10:08:03 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/shopilli/sbiz.mahira.co.id/salesOrder/edit.php:1) in /home/shopilli/sbiz.mahira.co.id/login/auth.php on line 6
+[17-Apr-2021 10:09:07 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/shopilli/sbiz.mahira.co.id/salesOrder/edit.php:1) in /home/shopilli/sbiz.mahira.co.id/login/auth.php on line 6
+[18-Apr-2021 05:43:10 UTC] PHP Warning:  mysql_connect(): Too many connections in /home/shopilli/sbiz.mahira.co.id/lib/connection.php on line 4
+[18-Apr-2021 05:43:10 UTC] PHP Warning:  mysql_select_db() expects parameter 2 to be resource, boolean given in /home/shopilli/sbiz.mahira.co.id/lib/connection.php on line 5
+[18-Apr-2021 05:43:10 UTC] PHP Warning:  mysql_query(): Access denied for user ''@'localhost' (using password: NO) in /home/shopilli/sbiz.mahira.co.id/salesOrder/postalCodeSave.php on line 12
+[18-Apr-2021 05:43:10 UTC] PHP Warning:  mysql_query(): A link to the server could not be established in /home/shopilli/sbiz.mahira.co.id/salesOrder/postalCodeSave.php on line 12
+[19-Apr-2021 15:32:46 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/shopilli/sbiz.mahira.co.id/salesOrder/edit.php:1) in /home/shopilli/sbiz.mahira.co.id/login/auth.php on line 6
+[20-Apr-2021 08:15:01 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/shopilli/sbiz.mahira.co.id/salesOrder/edit.php:1) in /home/shopilli/sbiz.mahira.co.id/login/auth.php on line 6
+[20-Apr-2021 08:24:45 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/shopilli/sbiz.mahira.co.id/salesOrder/edit.php:1) in /home/shopilli/sbiz.mahira.co.id/login/auth.php on line 6
+[26-Apr-2021 07:01:42 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/shopilli/sbiz.mahira.co.id/salesOrder/edit.php:1) in /home/shopilli/sbiz.mahira.co.id/login/auth.php on line 6
+[27-Apr-2021 04:13:07 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/shopilli/sbiz.mahira.co.id/salesOrder/edit.php:1) in /home/shopilli/sbiz.mahira.co.id/login/auth.php on line 6
+[27-Apr-2021 04:13:11 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/shopilli/sbiz.mahira.co.id/salesOrder/edit.php:1) in /home/shopilli/sbiz.mahira.co.id/login/auth.php on line 6
+[30-Apr-2021 05:48:43 UTC] PHP Warning:  mysql_connect(): Too many connections in /home/shopilli/sbiz.mahira.co.id/lib/connection.php on line 4
+[30-Apr-2021 05:48:43 UTC] PHP Warning:  mysql_select_db() expects parameter 2 to be resource, boolean given in /home/shopilli/sbiz.mahira.co.id/lib/connection.php on line 5
+[30-Apr-2021 05:48:43 UTC] PHP Warning:  mysql_connect(): Too many connections in /home/shopilli/sbiz.mahira.co.id/lib/connection.php on line 4
+[30-Apr-2021 05:48:43 UTC] PHP Warning:  mysql_select_db() expects parameter 2 to be resource, boolean given in /home/shopilli/sbiz.mahira.co.id/lib/connection.php on line 5
+[30-Apr-2021 05:48:43 UTC] PHP Warning:  mysql_query(): Access denied for user ''@'localhost' (using password: NO) in /home/shopilli/sbiz.mahira.co.id/salesOrder/editSave.php on line 60
+[30-Apr-2021 05:48:43 UTC] PHP Warning:  mysql_query(): A link to the server could not be established in /home/shopilli/sbiz.mahira.co.id/salesOrder/editSave.php on line 60
+[03-May-2021 13:59:23 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/shopilli/sbiz.mahira.co.id/salesOrder/edit.php:1) in /home/shopilli/sbiz.mahira.co.id/login/auth.php on line 6
+[03-May-2021 19:07:21 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/shopilli/sbiz.mahira.co.id/salesOrder/edit.php:1) in /home/shopilli/sbiz.mahira.co.id/login/auth.php on line 6
+[04-May-2021 02:45:02 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/shopilli/sbiz.mahira.co.id/salesOrder/edit.php:1) in /home/shopilli/sbiz.mahira.co.id/login/auth.php on line 6
+[04-May-2021 09:48:37 UTC] PHP Warning:  mysql_connect(): Too many connections in /home/shopilli/sbiz.mahira.co.id/lib/connection.php on line 4
+[04-May-2021 09:48:37 UTC] PHP Warning:  mysql_select_db() expects parameter 2 to be resource, boolean given in /home/shopilli/sbiz.mahira.co.id/lib/connection.php on line 5
+[04-May-2021 09:48:37 UTC] PHP Warning:  mysql_connect(): Too many connections in /home/shopilli/sbiz.mahira.co.id/lib/connection.php on line 4
+[04-May-2021 09:48:37 UTC] PHP Warning:  mysql_select_db() expects parameter 2 to be resource, boolean given in /home/shopilli/sbiz.mahira.co.id/lib/connection.php on line 5
+[04-May-2021 09:48:37 UTC] PHP Warning:  mysql_query(): Access denied for user ''@'localhost' (using password: NO) in /home/shopilli/sbiz.mahira.co.id/salesOrder/addSave.php on line 24
+[04-May-2021 09:48:37 UTC] PHP Warning:  mysql_query(): A link to the server could not be established in /home/shopilli/sbiz.mahira.co.id/salesOrder/addSave.php on line 24
+[04-May-2021 09:48:41 UTC] PHP Warning:  mysql_connect(): Too many connections in /home/shopilli/sbiz.mahira.co.id/lib/connection.php on line 4
+[04-May-2021 09:48:41 UTC] PHP Warning:  mysql_select_db() expects parameter 2 to be resource, boolean given in /home/shopilli/sbiz.mahira.co.id/lib/connection.php on line 5
+[04-May-2021 09:48:41 UTC] PHP Warning:  mysql_connect(): Too many connections in /home/shopilli/sbiz.mahira.co.id/lib/connection.php on line 4
+[04-May-2021 09:48:41 UTC] PHP Warning:  mysql_select_db() expects parameter 2 to be resource, boolean given in /home/shopilli/sbiz.mahira.co.id/lib/connection.php on line 5
+[04-May-2021 09:48:41 UTC] PHP Warning:  mysql_query(): Access denied for user ''@'localhost' (using password: NO) in /home/shopilli/sbiz.mahira.co.id/salesOrder/addSave.php on line 24
+[04-May-2021 09:48:41 UTC] PHP Warning:  mysql_query(): A link to the server could not be established in /home/shopilli/sbiz.mahira.co.id/salesOrder/addSave.php on line 24
+[04-May-2021 09:48:47 UTC] PHP Warning:  mysql_connect(): Too many connections in /home/shopilli/sbiz.mahira.co.id/lib/connection.php on line 4
+[04-May-2021 09:48:47 UTC] PHP Warning:  mysql_select_db() expects parameter 2 to be resource, boolean given in /home/shopilli/sbiz.mahira.co.id/lib/connection.php on line 5
+[04-May-2021 09:48:47 UTC] PHP Warning:  mysql_connect(): Too many connections in /home/shopilli/sbiz.mahira.co.id/lib/connection.php on line 4
+[04-May-2021 09:48:47 UTC] PHP Warning:  mysql_select_db() expects parameter 2 to be resource, boolean given in /home/shopilli/sbiz.mahira.co.id/lib/connection.php on line 5
+[04-May-2021 09:48:47 UTC] PHP Warning:  mysql_query(): Access denied for user ''@'localhost' (using password: NO) in /home/shopilli/sbiz.mahira.co.id/salesOrder/addSave.php on line 24
+[04-May-2021 09:48:47 UTC] PHP Warning:  mysql_query(): A link to the server could not be established in /home/shopilli/sbiz.mahira.co.id/salesOrder/addSave.php on line 24
+[04-May-2021 09:48:57 UTC] PHP Warning:  mysql_connect(): Too many connections in /home/shopilli/sbiz.mahira.co.id/lib/connection.php on line 4
+[04-May-2021 09:48:57 UTC] PHP Warning:  mysql_select_db() expects parameter 2 to be resource, boolean given in /home/shopilli/sbiz.mahira.co.id/lib/connection.php on line 5
+[04-May-2021 09:48:57 UTC] PHP Warning:  mysql_query(): Access denied for user ''@'localhost' (using password: NO) in /home/shopilli/sbiz.mahira.co.id/salesOrder/indexRead.php on line 40
+[04-May-2021 09:48:57 UTC] PHP Warning:  mysql_query(): A link to the server could not be established in /home/shopilli/sbiz.mahira.co.id/salesOrder/indexRead.php on line 40
+[04-May-2021 09:49:01 UTC] PHP Warning:  mysql_connect(): Too many connections in /home/shopilli/sbiz.mahira.co.id/lib/connection.php on line 4
+[04-May-2021 09:49:01 UTC] PHP Warning:  mysql_select_db() expects parameter 2 to be resource, boolean given in /home/shopilli/sbiz.mahira.co.id/lib/connection.php on line 5
+[04-May-2021 09:49:01 UTC] PHP Warning:  mysql_query(): Access denied for user ''@'localhost' (using password: NO) in /home/shopilli/sbiz.mahira.co.id/salesOrder/indexRead.php on line 40
+[04-May-2021 09:49:01 UTC] PHP Warning:  mysql_query(): A link to the server could not be established in /home/shopilli/sbiz.mahira.co.id/salesOrder/indexRead.php on line 40
+[10-May-2021 02:30:01 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/shopilli/sbiz.mahira.co.id/salesOrder/edit.php:1) in /home/shopilli/sbiz.mahira.co.id/login/auth.php on line 6
+[10-May-2021 07:30:24 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/shopilli/sbiz.mahira.co.id/salesOrder/edit.php:1) in /home/shopilli/sbiz.mahira.co.id/login/auth.php on line 6
+[10-May-2021 08:38:28 UTC] PHP Warning:  mysql_connect(): Too many connections in /home/shopilli/sbiz.mahira.co.id/lib/connection.php on line 4
+[10-May-2021 08:38:28 UTC] PHP Warning:  mysql_select_db() expects parameter 2 to be resource, boolean given in /home/shopilli/sbiz.mahira.co.id/lib/connection.php on line 5
+[10-May-2021 08:38:28 UTC] PHP Warning:  mysql_query(): Access denied for user ''@'localhost' (using password: NO) in /home/shopilli/sbiz.mahira.co.id/salesOrder/addRead.php on line 17
+[10-May-2021 08:38:28 UTC] PHP Warning:  mysql_query(): A link to the server could not be established in /home/shopilli/sbiz.mahira.co.id/salesOrder/addRead.php on line 17
+[10-May-2021 08:59:03 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/shopilli/sbiz.mahira.co.id/salesOrder/edit.php:1) in /home/shopilli/sbiz.mahira.co.id/login/auth.php on line 6
+[10-May-2021 08:59:06 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/shopilli/sbiz.mahira.co.id/salesOrder/edit.php:1) in /home/shopilli/sbiz.mahira.co.id/login/auth.php on line 6
+[11-May-2021 03:22:09 UTC] PHP Warning:  mysql_connect(): Too many connections in /home/shopilli/sbiz.mahira.co.id/lib/connection.php on line 4
+[11-May-2021 03:22:09 UTC] PHP Warning:  mysql_select_db() expects parameter 2 to be resource, boolean given in /home/shopilli/sbiz.mahira.co.id/lib/connection.php on line 5
+[11-May-2021 03:22:09 UTC] PHP Warning:  mysql_query(): Access denied for user ''@'localhost' (using password: NO) in /home/shopilli/sbiz.mahira.co.id/salesOrder/indexRead.php on line 40
+[11-May-2021 03:22:09 UTC] PHP Warning:  mysql_query(): A link to the server could not be established in /home/shopilli/sbiz.mahira.co.id/salesOrder/indexRead.php on line 40
+[11-May-2021 03:22:14 UTC] PHP Warning:  mysql_connect(): Too many connections in /home/shopilli/sbiz.mahira.co.id/lib/connection.php on line 4
+[11-May-2021 03:22:14 UTC] PHP Warning:  mysql_select_db() expects parameter 2 to be resource, boolean given in /home/shopilli/sbiz.mahira.co.id/lib/connection.php on line 5
+[11-May-2021 03:22:14 UTC] PHP Warning:  mysql_query(): Too many connections in /home/shopilli/sbiz.mahira.co.id/salesOrder/indexRead.php on line 40
+[11-May-2021 03:22:14 UTC] PHP Warning:  mysql_query(): A link to the server could not be established in /home/shopilli/sbiz.mahira.co.id/salesOrder/indexRead.php on line 40
+[11-May-2021 03:22:21 UTC] PHP Warning:  mysql_connect(): Too many connections in /home/shopilli/sbiz.mahira.co.id/lib/connection.php on line 4
+[11-May-2021 03:22:21 UTC] PHP Warning:  mysql_select_db() expects parameter 2 to be resource, boolean given in /home/shopilli/sbiz.mahira.co.id/lib/connection.php on line 5
+[11-May-2021 03:22:21 UTC] PHP Warning:  mysql_query(): Access denied for user ''@'localhost' (using password: NO) in /home/shopilli/sbiz.mahira.co.id/salesOrder/delete.php on line 10
+[11-May-2021 03:22:21 UTC] PHP Warning:  mysql_query(): A link to the server could not be established in /home/shopilli/sbiz.mahira.co.id/salesOrder/delete.php on line 10
+[11-May-2021 03:22:31 UTC] PHP Warning:  mysql_connect(): Too many connections in /home/shopilli/sbiz.mahira.co.id/lib/connection.php on line 4
+[11-May-2021 03:22:31 UTC] PHP Warning:  mysql_select_db() expects parameter 2 to be resource, boolean given in /home/shopilli/sbiz.mahira.co.id/lib/connection.php on line 5
+[11-May-2021 03:22:31 UTC] PHP Warning:  mysql_query(): Access denied for user ''@'localhost' (using password: NO) in /home/shopilli/sbiz.mahira.co.id/salesOrder/delete.php on line 10
+[11-May-2021 03:22:31 UTC] PHP Warning:  mysql_query(): A link to the server could not be established in /home/shopilli/sbiz.mahira.co.id/salesOrder/delete.php on line 10
+[11-May-2021 03:22:33 UTC] PHP Warning:  mysql_connect(): Too many connections in /home/shopilli/sbiz.mahira.co.id/lib/connection.php on line 4
+[11-May-2021 03:22:33 UTC] PHP Warning:  mysql_select_db() expects parameter 2 to be resource, boolean given in /home/shopilli/sbiz.mahira.co.id/lib/connection.php on line 5
+[11-May-2021 03:22:33 UTC] PHP Warning:  mysql_query(): Access denied for user ''@'localhost' (using password: NO) in /home/shopilli/sbiz.mahira.co.id/salesOrder/delete.php on line 10
+[11-May-2021 03:22:33 UTC] PHP Warning:  mysql_query(): A link to the server could not be established in /home/shopilli/sbiz.mahira.co.id/salesOrder/delete.php on line 10
+[11-May-2021 03:22:53 UTC] PHP Warning:  mysql_connect(): Too many connections in /home/shopilli/sbiz.mahira.co.id/lib/connection.php on line 4
+[11-May-2021 03:22:53 UTC] PHP Warning:  mysql_select_db() expects parameter 2 to be resource, boolean given in /home/shopilli/sbiz.mahira.co.id/lib/connection.php on line 5
+[11-May-2021 03:22:53 UTC] PHP Warning:  mysql_query(): Access denied for user ''@'localhost' (using password: NO) in /home/shopilli/sbiz.mahira.co.id/salesOrder/indexRead.php on line 40
+[11-May-2021 03:22:53 UTC] PHP Warning:  mysql_query(): A link to the server could not be established in /home/shopilli/sbiz.mahira.co.id/salesOrder/indexRead.php on line 40
+[11-May-2021 03:23:05 UTC] PHP Warning:  mysql_connect(): Too many connections in /home/shopilli/sbiz.mahira.co.id/lib/connection.php on line 4
+[11-May-2021 03:23:05 UTC] PHP Warning:  mysql_select_db() expects parameter 2 to be resource, boolean given in /home/shopilli/sbiz.mahira.co.id/lib/connection.php on line 5
+[11-May-2021 03:23:05 UTC] PHP Warning:  mysql_query(): Too many connections in /home/shopilli/sbiz.mahira.co.id/salesOrder/indexRead.php on line 40
+[11-May-2021 03:23:05 UTC] PHP Warning:  mysql_query(): A link to the server could not be established in /home/shopilli/sbiz.mahira.co.id/salesOrder/indexRead.php on line 40
+[17-May-2021 10:28:53 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/shopilli/sbiz.mahira.co.id/salesOrder/edit.php:1) in /home/shopilli/sbiz.mahira.co.id/login/auth.php on line 6
+[17-May-2021 15:59:49 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/shopilli/sbiz.mahira.co.id/salesOrder/edit.php:1) in /home/shopilli/sbiz.mahira.co.id/login/auth.php on line 6
+[17-May-2021 15:59:51 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/shopilli/sbiz.mahira.co.id/salesOrder/edit.php:1) in /home/shopilli/sbiz.mahira.co.id/login/auth.php on line 6
+[17-May-2021 15:59:53 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/shopilli/sbiz.mahira.co.id/salesOrder/edit.php:1) in /home/shopilli/sbiz.mahira.co.id/login/auth.php on line 6
+[24-May-2021 07:12:54 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/shopilli/sbiz.mahira.co.id/salesOrder/edit.php:1) in /home/shopilli/sbiz.mahira.co.id/login/auth.php on line 6
+[29-May-2021 23:30:58 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/shopilli/sbiz.mahira.co.id/salesOrder/edit.php:1) in /home/shopilli/sbiz.mahira.co.id/login/auth.php on line 6
+[02-Jun-2021 06:21:39 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/shopilli/sbiz.mahira.co.id/salesOrder/edit.php:1) in /home/shopilli/sbiz.mahira.co.id/login/auth.php on line 6
+[03-Jun-2021 03:49:24 UTC] PHP Warning:  mysql_connect(): Too many connections in /home/shopilli/sbiz.mahira.co.id/lib/connection.php on line 4
+[03-Jun-2021 03:49:24 UTC] PHP Warning:  mysql_select_db() expects parameter 2 to be resource, boolean given in /home/shopilli/sbiz.mahira.co.id/lib/connection.php on line 5
+[03-Jun-2021 03:49:24 UTC] PHP Warning:  mysql_query(): Access denied for user ''@'localhost' (using password: NO) in /home/shopilli/sbiz.mahira.co.id/salesOrder/addStuffSave.php on line 17
+[03-Jun-2021 03:49:24 UTC] PHP Warning:  mysql_query(): A link to the server could not be established in /home/shopilli/sbiz.mahira.co.id/salesOrder/addStuffSave.php on line 17
