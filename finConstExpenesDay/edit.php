@@ -13,7 +13,7 @@
 					</td>
 				</tr>
 				<tr>
-					<td valign="top">TAMPILKAN DI LAPORAN KONVERSI IKLAN <?php echo $data['is_show_report_convertion_adds'] ?></td>
+					<td valign="top">TAMPILKAN DI LAPORAN KONVERSI IKLAN </td>
 					<td valign="top">
 						<select name="isShowReport" style="width: 200px">
 							<option value="0" <?php echo (isset($_POST['isShowReport']) ? $_POST['isShowReport'] : $data['is_show_report_convertion_adds']) == '0' ? 'selected' : '' ?>>Tidak Sertakan</option>

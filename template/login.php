@@ -18,7 +18,7 @@
 				<table width="100%">
 					<td align="right">
 						Powered By <b>Simple Biz 1.0.0</b><br />
-						<b>@DS Teknologi, Dendie [087899509023]</b>
+						<b>Dendie</b>
 					</td>
 				<table>		
 			</div>

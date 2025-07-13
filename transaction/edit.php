@@ -49,7 +49,7 @@
 				</td>
 			</tr>
 			<tr id="trClient">
-				<td>PEDAGANG / RESSELER</td>
+				<td>KATEGORI PELANGGAN</td>
 				<td>
 					<select name="clientId" style="width:155px">
 						<?php while($val = mysql_fetch_array($dataClient)): ?>

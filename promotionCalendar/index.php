@@ -84,11 +84,6 @@
 					<?php $total = ($total + $val['nominal']) ?>
 					<?php endwhile; ?>
 				<tbody>
-				<tr>
-					<th align="center" colspan="3"><b>TOTAL</b></th>
-					<th align="center"><?php echo number_format($total,0,0,'.') ?></th>	
-					<th>&nbsp;</td>
-				</tr>	
 			</table>
 			<p style="text-align:center; padding:10px">
 				<?php
